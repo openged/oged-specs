@@ -1,2 +1,2 @@
 # oged-specs
-Open Genealogy Data Specification
+Open Genealogical Data Specification
